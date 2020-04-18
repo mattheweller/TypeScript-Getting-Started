@@ -63,8 +63,5 @@
     /* Advanced Options */
     "forceConsistentCasingInFileNames": true,  /* Disallow inconsistently-cased references to the same file. */
     "watch": true
-  },
-  "files":[                                   /* Explicit list of files to compile at build time */
-    "app/app.ts"
-  ]
+  }
 }
