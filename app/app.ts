@@ -1,0 +1,1 @@
+let nothing: string = "nothing for now";
